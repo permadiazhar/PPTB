@@ -2,8 +2,8 @@
 
 oleh : Permadi Tri Prasojo (18115010) & Muchammad Azhar Nurkemal (18115013)
 
-Telecommunication Engineering, 
-Institut Teknologi Bandung '15
+Telecommunication Engineering '15, 
+Institut Teknologi Bandung.
 
 Latar Belakang :
 
