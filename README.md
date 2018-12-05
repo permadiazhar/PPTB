@@ -26,7 +26,7 @@ maka dari itu, dibuatlah aplikasi ini yang kami beri judul "AndroEmergency".
 
 <img src="https://firebasestorage.googleapis.com/v0/b/pptb-e7242.appspot.com/o/Lokasi.PNG?alt=media&token=9392052a-2cbb-4d84-aa2c-f4216942eba7" width="150" height="300"><img src="https://firebasestorage.googleapis.com/v0/b/pptb-e7242.appspot.com/o/FiturActivity.PNG?alt=media&token=3287d5f9-fce7-4019-8259-9d8a06a3849e" width="150" height="300">
 
-### Directions(Setelah di klik LokasiPetugasActivity.java) :
+### Directions(Setelah di klik recycleview adapter pada LokasiPetugasActivity.java) :
 
 <img src="https://firebasestorage.googleapis.com/v0/b/pptb-e7242.appspot.com/o/maps2.PNG?alt=media&token=d8102a84-0caa-4d0c-bb19-03bd4dc8ca74" width="150" height="300">
 
