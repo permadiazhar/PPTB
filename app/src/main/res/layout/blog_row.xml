@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Blog" android:orientation="vertical"
+    app:cardCornerRadius="12dp"
+    android:layout_margin="7dp"
+    android:elevation="90dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:orientation="vertical"
+        android:background="#fff"
+        android:gravity="center">
+
+
+        <TextView
+            android:id="@+id/post_namapetugas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="PETUGAS"
+            android:textAllCaps="true"
+            android:fontFamily="@font/bebasneue_regular"
+            android:textColor="#2baae4"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:typeface="normal" />
+
+
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

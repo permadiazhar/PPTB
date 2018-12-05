@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "428265236037",
+    "firebase_url": "https://pptb-e7242.firebaseio.com",
+    "project_id": "pptb-e7242",
+    "storage_bucket": "pptb-e7242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428265236037:android:d99f99dae6cd2d77",
+        "android_client_info": {
+          "package_name": "com.example.azhar97.pptb2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428265236037-nrc6s8sc83phslvadcubus8dne2h8upf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAh6dL_tT0i6VBEuQkk33pOXLhtUCLppI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
